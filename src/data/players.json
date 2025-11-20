@@ -1,0 +1,228 @@
+[
+   {
+    "id": 1,
+    "name": "Lionel Messi",
+    "country": "Argentina",
+    "position": "Delantero",
+    "image": "/public/images/jugadores/messi.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "country": "Portugal",
+    "position": "Delantero",
+    "image": "/public/images/jugadores/ronaldo.webp"
+  },
+  {
+    "id": 3,
+    "name": "lamine yamal",
+    "country": "España",
+    "position": "Delantero",
+    "image": "/public/images/jugadores/yamal.webp"
+  },
+  {
+    "id": 4,
+    "name": "ousmane dembele",
+    "country": "francia",
+    "position": "Delantero",
+    "image": "/public/images/jugadores/dembele.jpg"
+  },
+  {
+    "id": 5,
+    "name": "raphinha",
+    "country": "brasil",
+    "position": "Delantero",
+    "image": "/public/images/jugadores/raphinha.jpg"
+  },
+  {
+    "id": 6,
+    "name": "mohamed salah",
+    "country": "egipto",
+    "position": "Delantero",
+    "image": "/public/images/jugadores/sala.webp"
+  },
+  {
+    "id": 7,
+    "name": "kyliam mbappe",
+    "country": "francia",
+    "position": "Delantero",
+    "image": "/public/images/jugadores/mbappe.jpg"
+  },
+  {
+    "id": 8,
+    "name": "erling haaland",
+    "country": "noruega",
+    "position": "Delantero",
+    "image": "/public/images/jugadores/haaland.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "virgil van dijk",
+    "country": "paises bajos",
+    "position": "defensa",
+    "image": "/public/images/jugadores/van dijk.webp"
+  },
+  {
+    "id": 10,
+    "name": "wiliam saliba",
+    "country": "francia",
+    "position": "defensa",
+    "image": "/public/images/jugadores/saliba.jpg"
+  },
+  {
+    "id": 11,
+    "name": "alesandro bastoni",
+    "country": "italia",
+    "position": "defensa",
+    "image": "/public/images/jugadores/bastoni.jpg"
+  },
+  {
+    "id": 12,
+    "name": "nuno mendes",
+    "country": "Portugal",
+    "position": "defensa",
+    "image": "/public/images/jugadores/nuno.jpg"
+  },
+  {
+    "id": 13,
+    "name": "achraf hakimi",
+    "country": "maruecos",
+    "position": "defensa",
+    "image": "/public/images/jugadores/hakimi.jpg"
+  },
+  {
+    "id": 14,
+    "name": "william pacho",
+    "country": "ecuador",
+    "position": "defensa",
+    "image": "/public/images/jugadores/pacho.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "pau cubarsi",
+    "country": "España",
+    "position": "defensa",
+    "image": "/public/images/jugadores/cubarsi.webp"
+  },
+  {
+    "id": 16,
+    "name": "rudiger",
+    "country": "alemania",
+    "position": "defensa",
+    "image": "/public/images/jugadores/rudiger.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "pedri",
+    "country": "España",
+    "position": "Centrocampista",
+    "image": "/public/images/jugadores/pedri.webp"
+  },
+  {
+    "id": 18,
+    "name": "vitinha",
+    "country": "Portugal",
+    "position": "Centrocampista",
+    "image": "/public/images/jugadores/vitinha.jpeg"
+  },
+  {
+    "id": 19,
+    "name": "jude bellingham",
+    "country": "inglaterra",
+    "position": "Centrocampista",
+    "image": "/public/images/jugadores/jude.webp"
+  },
+  {
+    "id": 20,
+    "name": "cole palmer",
+    "country": "inglaterra",
+    "position": "Centrocampista",
+    "image": "/public/images/jugadores/palmer.jpg"
+  },
+  {
+    "id": 21,
+    "name": "valverde",
+    "country": "uruguay",
+    "position": "Centrocampista",
+    "image": "/public/images/jugadores/valverde.webp"
+  },
+  {
+    "id": 22,
+    "name": "moises caicedo",
+    "country": "ecuador",
+    "position": "Centrocampista",
+    "image": "/public/images/jugadores/caicedo.webp"
+  },
+   {
+    "id": 23,
+    "name": "frenkie de jong",
+    "country": "paises bajos",
+    "position": "Centrocampista",
+    "image": "/public/images/jugadores/de jong.webp"
+  },
+  {
+    "id": 24,
+    "name": "martin odegaard",
+    "country": "paises bajos",
+    "position": "Centrocampista",
+    "image": "/public/images/jugadores/odegaard.avif"
+  },
+  {
+    "id": 25,
+    "name": "david raya",
+    "country": "españa",
+    "position": "portero",
+    "image": "/public/images/jugadores/raya.jpg"
+  },
+  {
+    "id": 26,
+    "name": "donnarumma",
+    "country": "italia",
+    "position": "portero",
+    "image": "/public/images/jugadores/donnaruma.webp"
+  },
+  {
+    "id": 27,
+    "name": "alisson",
+    "country": "brasil",
+    "position": "portero",
+    "image": "/public/images/jugadores/alison.jpg"
+  },
+  {
+    "id": 28,
+    "name": "thibaut courtois",
+    "country": "belgica",
+    "position": "portero",
+    "image": "/public/images/jugadores/courtois.avif"
+  },
+  {
+    "id": 29,
+    "name": "ederson",
+    "country": "brasil",
+    "position": "portero",
+    "image": "/public/images/jugadores/ederson.jpg"
+  },
+  {
+    "id": 30,
+    "name": "joshua kimmich",
+    "country": "alemania",
+    "position": "Centrocampista",
+    "image": "/public/images/jugadores/kimmich.jpg"
+  },
+  {
+    "id": 31,
+    "name": "franco armani",
+    "country": "Argentina",
+    "position": "portero",
+    "image": "/public/images/jugadores/armani.jpg"
+  },
+  {
+    "id": 32,
+    "name": "emiliano martinez",
+    "country": "argentina",
+    "position": "portero",
+    "image": "/public/images/jugadores/dibu.png"
+  }
+  
+
+]

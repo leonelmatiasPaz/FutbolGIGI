@@ -1,0 +1,42 @@
+[
+  {
+    "name": "adidas copa",
+    "image": "/public/images/botines/adidas copa.avif"
+  },
+  {
+    "name": "adidas f50",
+    "image": "/public/images/botines/adidas f50.webp"
+  },
+  {
+    "name": "adidas predator azul",
+    "image": "/public/images/botines/adidas predator azul.webp"
+  },
+  {
+    "name": "adidas predator rosa",
+    "image": "/public/images/botines/adidas predator rosa.avif"
+  },
+  {
+    "name": "copa pure",
+    "image": "/public/images/botines/copa pure.avif"
+  },
+  {
+    "name": "nike negro",
+    "image": "/public/images/botines/nike negro.jpg"
+  },
+  {
+    "name": "nike phantom azul",
+    "image": "/public/images/botines/nike phantom azul.jpg"
+  },
+  {
+    "name": "nike phantom",
+    "image": "/public/images/botines/nike phantom.jpg"
+  },
+  {
+    "name": "puma future 7",
+    "image": "/public/images/botines/puma future 7.webp"
+  },
+  {
+    "name": " nike tiempo",
+    "image": "/public/images/botines/tiempo.webp"
+  }
+]

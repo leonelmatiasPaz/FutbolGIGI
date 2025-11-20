@@ -1,0 +1,188 @@
+[
+  {
+    "id": "liga-argentina",
+    "name": "Liga Argentina",
+    "country": "Argentina",
+    "shield": "/public/images/ligas/liga argentina.avif",
+    "campeon":"platense",
+    "teams": [
+      "Aldosivi",
+      "Argentinos Juniors",
+      "Atlético Tucumán",
+      "Banfield",
+      "Barracas Central",
+      "Belgrano",
+      "Boca Juniors",
+      "Central Córdoba (Santiago del Estero)",
+      "Defensa y Justicia",
+      "Deportivo Riestra",
+      "Estudiantes de La Plata",
+      "Gimnasia y Esgrima La Plata",
+      "Godoy Cruz (Mendoza)",
+      "Huracán",
+      "Independiente",
+      "Independiente Rivadavia (Mendoza)",
+      "Instituto (Córdoba)",
+      "Lanús",
+      "Newell's Old Boys (Rosario)",
+      "Platense",
+      "Racing Club",
+      "River Plate",
+      "Rosario Central",
+      "San Lorenzo de Almagro",
+      "San Martín (San Juan)",
+      "Sarmiento (Junín)",
+      "Talleres (Córdoba)",
+      "Tigre",
+      "Unión (Santa Fe)",
+      "Vélez Sarsfield"
+    ]
+  },
+   {
+    "id": "la-liga",
+    "name": "LaLiga",
+    "country": "España",
+    "shield": "/public/images/ligas/laliga.png",
+    "campeon": "barcelona",
+    "teams": [
+       "Alavés",
+       "Athletic Club",
+       "Atlético de Madrid",
+       "Barcelona",
+       "Celta de Vigo",
+       "Elche CF",
+       "Getafe CF",
+       "Girona FC",
+       "Levante UD",
+       "Mallorca",
+       "Osasuna",
+       "Rayo Vallecano",
+       "Real Betis",
+       "Real Madrid",
+       "Real Sociedad",
+       "Sevilla FC",
+       "Valencia CF",
+       "Villarreal CF",
+       "Granada CF (asumido, ascendido la temporada anterior)",
+       "Cádiz CF (asumido, descendido de la temporada anterior, pero se queda un hueco)"
+    ]
+  },
+
+   {
+    "id": "premier-league",
+    "name": "premier league",
+    "country": "inglaterra",
+    "shield": "/public/images/ligas/premier league.webp",
+    "campeon": "Liverpool",
+    "teams": [
+      "Arsenal",
+      "Aston Villa",
+      "Bournemouth",
+      "Brentford",
+      "Brighton & Hove Albion",
+      "Burnley", "Chelsea",
+      "Crystal Palace",
+      "Everton", "Fulham",
+      "Leeds United",
+      "Liverpool",
+      "Manchester City",
+      "Manchester United",
+      "Newcastle United",
+      "Nottingham Forest",
+      "Sunderland",
+      "Tottenham Hotspur",
+      "West Ham United", 
+      "Wolverhampton Wanderers"
+     
+
+    ]
+  }, {
+    "id": "serie-a",
+    "name": "serie a",
+    "country": "italia",
+    "shield": "/public/images/ligas/serie a.webp",
+    "campeon": "napoli",
+    "teams": [
+      "AC Milan",
+      "AS Roma",
+      "Atalanta BC",
+      "Bologna FC 1909",
+      "Cagliari Calcio",
+      "Calcio Como 1907",
+      "Empoli FC",
+      "Fiorentina",
+      "Genoa CFC",
+      "Hellas Verona FC",
+      "Inter de Milán",
+      "Juventus de Turín",
+      "US Lecce",
+      "AC Monza",
+      "SSC Napoli",
+      "Parma Calcio 1913",
+      "SS Lazio",
+      "Torino FC",
+      "Udinese Calcio",
+      "Venezia FC"
+      
+    ]
+  },
+   {
+    "id": "bundesliga",
+    "name": "bundesliga",
+    "country": "alemania",
+    "shield": "/public/images/ligas/bundes+.jpg",
+    "campeon": "bayern munich",
+    "teams": [
+      "Bayer 04 Leverkusen",
+      "Bayern de Múnich",
+      "Borussia Dortmund",
+      "Borussia Mönchengladbach",
+      "Eintracht Fráncfort",
+      "F. C. Augsburgo",
+      "F. C. Colonia",
+      "1. FC Heidenheim 1846",
+      "SC Friburgo",
+      "TSG 1899 Hoffenheim",
+      "Holstein Kiel",
+      "RB Leipzig",
+      "1. FSV Mainz 05",
+      "FC St. Pauli",
+      "VfB Stuttgart",
+      "1. FC Union Berlin",
+      "Werder Bremen",
+      "VfL Wolfsburgo" 
+
+
+
+
+     
+    ]
+  }, 
+    {
+    "id": "ligue-1",
+    "name": "Ligue 1",
+    "country": "francia",
+    "shield": "/public/images/ligas/ligue1.avif",
+    "campeon":"paris saint-germain",
+    "teams": [
+      "Angers SCO",
+      "Association de la Jeunesse Auxerroise",
+      "Association Sportive de Monaco Football Club",
+      "Football Club de Metz",
+      "Football Club Lorient",
+      "Football Club Nantes",
+      "Le Havre Athletic Club Football Association",
+      "Lille Olympique Sporting Club",
+      "OGC Niza",
+      "Olympique de Lyon",
+      "Olympique de Marsella",
+      "Paris Football Club",
+      "París Saint-Germain Football Club",
+      "Racing Club de Lens",
+      "Racing Club de Estrasburgo",
+      "Stade Brestois 29",
+      "Stade Rennais Football Club",
+      "Toulouse Football Club"
+    ]
+  }
+]

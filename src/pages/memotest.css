@@ -1,0 +1,33 @@
+.mem-grid{ display:grid; gap:12px; grid-template-columns: repeat(auto-fit, minmax(90px, 1fr)); }
+.mem-card{
+  width:100%;
+  padding-top:100%;
+  position:relative;
+  perspective:800px;
+  cursor:pointer;
+  border:1px solid rgba(255,255,255,0.06);
+  border-radius:0;
+  overflow:visible;
+}
+.mem-card > div{
+  position:absolute;
+  inset:6px;
+  backface-visibility:hidden;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+  border-radius:0;
+}
+.mem-front{
+  background:linear-gradient(180deg,#0b4f19,#06320a);
+  color:white;
+  transform:rotateY(0deg);
+}
+.mem-back{
+  background:transparent;
+  transform:rotateY(180deg);
+}
+.mem-card.flipped .mem-front{ transform:rotateY(180deg); transition:transform .35s; }
+.mem-card.flipped .mem-back{ transform:rotateY(360deg); transition:transform .35s; }
+.mem-card img{ max-width:90%; max-height:70%; display:block; }

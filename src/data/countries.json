@@ -1,0 +1,102 @@
+[
+  {
+    "id": "arg",
+    "name": "Argentina",
+    "flag": "/public/images/banderas/argentina.png",
+    "añocampeon": "2022, 1986, 1978",
+    "mjugados": "18 mundiales jugados",
+    "players": [
+      1,32,31
+    ],
+    "leagues": [
+      "liga-argentina"
+    ]
+  },
+  {
+    "id": "esp",
+    "name": "España",
+    "flag": "/public/images/banderas/españa.png",
+    "añocampeon": "2010",
+    "mjugados": "16 mundiales jugados",
+    "players": [
+      3,17,15
+    ],
+    "leagues": ["la-liga"]
+  },
+    {
+    "id": "fran",
+    "name": "francia",
+    "flag": "/public/images/banderas/francia.png",
+    "añocampeon": "2018, 1998",
+    "mjugados": "16 mundiales jugados",
+    "players": [
+      7,4,10
+    ],
+    "leagues": ["ligue-1"]
+  },
+   {
+    "id": "ingl",
+    "name": "inglaterra",
+    "flag": "/public/images/banderas/inglaterra.png",
+    "añocampeon": "1966",
+    "mjugados": "16 mundiales jugados",
+    "players": [
+      19,20
+    ],
+    "leagues": [
+      "premier-league"
+    ]
+  },
+  {
+    "id": "urug",
+    "name": "uruguay",
+    "flag": "/public/images/banderas/uruguay.webp",
+    "añocampeon": "1950,1930",
+    "mjugados": "14 mundiales jugados",
+    "players": [
+      21
+    ],
+    "leagues": [
+      "liga-uruguaya"
+    ]
+  },
+  {
+    "id": "bra",
+    "name": "brasil",
+    "flag": "/public/images/banderas/brasil.png",
+    "añocampeon": "2002,1994,1970,1962,1958",
+    "mjugados": "22 mundiales jugados, todas las ediciones",
+    "players": [
+      5,27,29
+    ],
+    "leagues": [
+      "brasileirao"
+    ]
+  },
+  {
+    "id": "alem",
+    "name": "alemania",
+    "flag": "/public/images/banderas/italia.png",
+    "añocampeon": "1954,1974,1990,2014",
+    "mjugados": "20 mundiales jugados",
+    "players": [
+      16,30
+    ],
+    "leagues": [
+      "bundesliga"
+    ]
+  },
+  {
+    "id": "ita",
+    "name": "italia",
+    "flag": "/public/images/banderas/italia.avif",
+    "añocampeon": "2006,1982,1938,1934",
+    "mjugados": "18 mundiales jugados",
+    "players": [
+      26,11
+    ],
+    "leagues": [
+      "serie-a"
+    ]
+  }
+]

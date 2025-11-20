@@ -1,0 +1,14 @@
+.footer{
+  margin-top:30px;
+  padding:18px;
+  background:linear-gradient(180deg,#071708,#052006);
+  color:#cfe8cf;
+}
+.container-inner{ display:flex; justify-content:space-between; gap:10px; align-items:center; max-width:1100px; margin:0 auto; }
+.small{ color:#bcd6b5; }
+.contact-summary{ text-align:right; }
+.copyright{ text-align:center; margin-top:12px; font-size:13px; color:#9fb99a; }
+@media(max-width:700px){
+  .container-inner{ flex-direction:column; text-align:center; }
+  .contact-summary{ text-align:center; }
+}

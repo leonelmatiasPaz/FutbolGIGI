@@ -1,0 +1,164 @@
+[
+  {
+    "id": "champions",
+    "name": "UEFA Champions League",
+    "years": "1955 - presente",
+    "image": "/public/images/copas/champios.jpg",
+    "history": "La UEFA Champions League es el torneo de clubes más importante de Europa. Fue creada en 1955 bajo el nombre de “Copa de Europa”, mayor logro para un club, y cada temporada millones de personas en el mundo siguen la competencia, especialmente la gran final, uno de los eventos deportivos más vistos del planeta",
+    "winners": [
+      "Real Madrid",
+      "AC Milan",
+      "Bayern de Múnich",
+      "Liverpool",
+      "FC Barcelona",
+      "Ajax",
+      "Inter de Milán",
+      "Manchester United",
+      "Juventus de Turín",
+      "Benfica",
+      "Chelsea",
+      "Nottingham Forest",
+      "Porto",
+      "París Saint-Germain",
+      "Celtic",
+      "Hamburgo",
+      "Olympique de Marsella",
+      "Steaua de Bucarest",
+      "Aston Villa",
+      "Estrella Roja de Belgrado",
+       "Feyenoord",
+       "PSV Eindhoven",
+       "Manchester City"
+    ],
+    "top_winners": [
+      {
+        "team": "Real Madrid",
+        "titles": 14
+      }
+    ]
+  },
+   {
+    "id": "libertadores",
+    "name": "copa libertadores",
+    "image": "/public/images/copas/libertadores.avif",
+    "years": "1960 - presente",
+    "history": "La Copa Libertadores se creó en 1960 como el torneo de clubes más importante de Sudamérica. Fue organizada por la CONMEBOL y nació como la versión sudamericana de la Copa de Europa.",
+    "winners": [
+      "Independiente",
+      "Boca Juniors",
+      "Peñarol",
+      "Estudiantes de La Plata",
+      "River Plate",
+      "Nacional",
+      "Olimpia",
+      "São Paulo",
+      "Santos",
+      "Palmeiras",
+      "Gremio",
+      "Flamengo",
+      "Atlético Nacional",
+      "Cruzeiro",
+      "Internacional",
+      "Atlético Mineiro",
+      "Botafogo",
+      "Vasco da Gama",
+      "Once Caldas",
+      "Liga de Quito",
+      "Colo-Colo",
+      "Racing Club",
+      "Argentinos Juniors",
+      "Vélez Sarsfield",
+      "San Lorenzo",
+      "Corinthians",
+      "Fluminense"
+    ],
+    "top_winners": [
+      {
+        "team": "independiente de avellaneda",
+        "titles": 7
+      }
+    ]
+  },
+   {
+    "id": "europa",
+    "name": "europa league",
+    "years": "1971 - presente",
+    "image": "/public/images/copas/europaleague.jfif",
+    "history": "La Europa League comenzó en 1971 como la Copa UEFA, pensada para clubes europeos que no participaban de la Copa de Europa (hoy Champions League).",
+    "winners": [
+      "Sevilla FC",
+      "Inter de Milán",
+      "Liverpool FC",
+      "Juventus de Turín",
+      "Atlético de Madrid",
+      "Tottenham Hotspur",
+      "Borussia Mönchengladbach",
+      "Feyenoord",
+      "IFK Göteborg",
+      "Real Madrid CF",
+      "Parma",
+      "FC Porto",
+      "Chelsea FC",
+      "Eintracht Fráncfort",
+      "RSC Anderlecht",
+      "Ajax",
+      "Manchester United",
+      "PSV Eindhoven",
+      "Ipswich Town",
+      "Bayer Leverkusen",
+      "Napoli",
+      "Bayern de Múnich",
+      "Schalke 04",
+      "Galatasaray",
+      "Valencia CF",
+      "CSKA Moscú",
+      "Zenit San Petersburgo",
+      "Shakhtar Donetsk",
+      "Villarreal CF",
+      "Atalanta BC"
+
+    ],
+    "top_winners": [
+      {
+        "team": "sevilla fc",
+        "titles": 7
+      }
+    ]
+  },
+   {
+    "id": "sudamericana",
+    "name": "copa sudamericana",
+    "years": "2002 - presente",
+    "image": "/public/images/copas/sudamericana.jpg",
+    "history": "La Copa Sudamericana se fundó en 2002 como la segunda competencia continental de clubes organizada por la CONMEBOL, ocupando el lugar de torneos anteriores como la Supercopa y la Copa Merconorte/Mercosur.",
+    "winners": [
+      "Independiente",
+      "Boca Juniors",
+      "Atlético Paranaense",
+      "Liga de Quito",
+      "San Lorenzo",
+      "Cienciano",
+      "Pachuca",
+      "Arsenal",
+      "Internacional",
+      "Universidad de Chile",
+      "São Paulo",
+      "Lanús",
+      "River Plate",
+      "Santa Fe",
+      "Chapecoense",
+      "Independiente del Valle",
+      "Defensa y Justicia",
+      "Atlético Goianiense",
+      "Fluminense",
+      "Racing Club",
+      "Cruzeiro"      
+    ],
+    "top_winners": [
+      {
+        "team": "independiente de avellaneda",
+        "titles": 2
+      }
+    ]
+  }
+]
